@@ -1,2 +1,1 @@
-# Backup
-We have learnt how to source control
+# We have learnt how backup
